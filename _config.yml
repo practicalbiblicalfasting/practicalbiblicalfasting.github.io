@@ -19,12 +19,12 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Practical Biblical Fasting"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Practical biblical fasting guidance for everyday Christians."
 name                     : "Pastor Marlon"
-description              : "Practical biblical fasting guidance for everyday Christians."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+description              : "20 years of ministry experience helping Christians develop meaningful spiritual practices through biblical fasting"
+url                      : "https://practicalbiblicalfasting.github.io"
+baseurl                  : ""
+repository               : "practicalbiblicalfasting/practicalbiblicalfasting.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -116,12 +116,12 @@ author:
   name             : "Pastor Marlon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "20 years of ministry experience helping Christians develop meaningful spiritual practices."
-  location         : "Somewhere"
-  email            :
+  location         : "Chicago, IL"
+  email            : "revmarlonmorris@1513church.org"
   links:
-    - label: "Email"revmarlonmorris@1513church.org"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -141,6 +141,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your-email@example.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
