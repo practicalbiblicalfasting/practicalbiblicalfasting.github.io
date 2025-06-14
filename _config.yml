@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Pastor Marlon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "20 years of ministry experience helping Christians develop meaningful spiritual practices."
+  bio              : "Pastor with 20 years of ministry experience helping Christians develop meaningful spiritual practices."
   location         : "Chicago, IL"
-  email            : "revmarlonmorris@1513church.org"
+  email            : "practicalbiblicalfasting@1513church.org"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -143,7 +143,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:revmarlonmorris@1513church.org"
+      # url: "mailto:practicalbiblicalfasting@1513church.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
