@@ -68,9 +68,9 @@ Jesus' assumption changes everything about how we approach fasting:
 
 ## But what about my busy life?
 
-"That's easy for Jesus to say," you might be thinking. "He didn't have soccer practice, board meetings, and meal planning."
+"That's easy for Jesus to say," you might be thinking. "He didn't have football practice, board meetings, and meal planning."
 
-Fair point. But here's what I've learned after three decades of helping real people develop real spiritual practices:
+Fair point. But here's what I've learned after two decades of helping real people develop real spiritual practices:
 
 Jesus meets you where you are.
 
