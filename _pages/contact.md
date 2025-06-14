@@ -6,8 +6,6 @@ layout: single
 author_profile: true
 ---
 
-#
-
 Have questions about biblical fasting? Need guidance for your specific situation? I'd love to help.
 
 ## Get in Touch
