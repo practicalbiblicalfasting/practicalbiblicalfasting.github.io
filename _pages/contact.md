@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-# Contact Pastor Marlon
+#
 
 Have questions about biblical fasting? Need guidance for your specific situation? I'd love to help.
 
