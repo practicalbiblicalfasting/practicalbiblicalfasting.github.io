@@ -31,7 +31,7 @@ I typically respond within 24-48 hours. For urgent questions, please contact you
 
 ## Ministry Background
 
-As the pastor behind Biblical Fasting Guide, I bring 30 years of ministry experience and multiple postgraduate degrees in ministry, divinity, theology, and philosophy. I've personally guided hundreds of people through their first fasting experiences and continue to fast regularly myself.
+As the pastor behind Biblical Fasting Guide, I bring 20 years of ministry experience and have personally guided hundreds of people through their first fasting experiences and continue to fast regularly myself.
 
 *"Iron sharpens iron, and one man sharpens another." - Proverbs 27:17*
 
