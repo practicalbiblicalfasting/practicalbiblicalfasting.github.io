@@ -143,13 +143,13 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your-email@example.com"
+      # url: "mailto:revmarlonmorris@1513church.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      # url: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
