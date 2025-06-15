@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Jesus Assumed You Would Fast (And What That Means Today)"
-date: 2024-12-20
+date: 2025-06-14
 categories: [biblical-fasting]
 ---
 
